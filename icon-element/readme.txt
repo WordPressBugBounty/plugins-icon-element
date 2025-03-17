@@ -13,7 +13,7 @@ The ultimate icon-packs for elementor page builder.
 
 Enhance your [Elementor](https://wordpress.org/plugins/elementor/) page building experience custom icon fonts.
 
-### 26 ICON FREE PACKS (8000+ icons)
+### 26 ICON FREE PACKS (11000+ icons)
 
 1. [Material Design](https://material.io/resources/icons/?style=baseline) - 931 icons
 2. [Metrize](http://www.alessioatzeni.com/metrize-icons/) - 299 icons 
@@ -41,8 +41,9 @@ Enhance your [Elementor](https://wordpress.org/plugins/elementor/) page building
 24. [Fabric Icon](https://uifabricicons.azurewebsites.net/) - 1922 icons
 25. [Grommet Icon](https://icons.grommet.io/) - 200 icons
 26. [Orchid](https://github.com/orchidsoftware/icons) - 280 icons
+27. [Phosphor light](https://phosphoricons.com/?weight=%22light%22) - 3022 icons
 
-### 40 PRO PACKS (16000+ icons)
+### 40 PRO PACKS (19000+ icons)
  
 1. [Boxicons](https://boxicons.com/cheatsheet/) - 490 icons
 2. [Linea Music](https://linea.io/) - 29 icons
@@ -84,7 +85,7 @@ Enhance your [Elementor](https://wordpress.org/plugins/elementor/) page building
 38. [Olicons](http://olicons.yemaosheji.com/index.html#sec-menu) - 677 icons
 39. [Keyrune](https://keyrune.andrewgioia.com/icons.html) - 340 icons
 40. [Clarity](https://clarity.design/documentation/icons/shapes) - 1080 icons
-
+41. [Phosphor Duotone](https://phosphoricons.com/?weight=%22duotone%22) - 3022 icons
 ### Buy Premium Version [Icon Element Pro $19 ](https://webangon.com/icon-element/)
 
 

@@ -30,6 +30,21 @@ if ( ! class_exists( 'Icon_Element_Icons_Integration' ) ) {
 				);
 			}
 
+			if ( get_option('icon-elementie-phosphor-light') ){
+
+				$tabs['phosphor-light'] = array(
+					'name'          => 'phosphor-light',
+					'label'         => esc_html__( 'Phosphor-light', 'icon-element' ),
+					'labelIcon'     => 'phlight-acorn',
+					'prefix'        => 'phlight-',
+					'displayPrefix' => 'phl',
+					'url'           => ICON_ELEM_URL . 'assets/phosphor-light/phosphor-light.css',
+					'fetchJson'     => ICON_ELEM_URL . 'assets/phosphor-light/fonts/phosphor-light.json',
+					'ver'           => '3.0.1',
+				);
+
+			}
+
 			if ( get_option('icon-elementie-elementor') ){
 				$tabs['elementor'] = array(
 					'name'          => 'elementor',
@@ -1066,6 +1081,21 @@ if ( ! class_exists( 'Icon_Element_Icons_Integration' ) ) {
 					'ver'           => '3.0.1',
 				);
 				
+			}
+
+			if ( get_option('icon-elementie-phosphor-duotone') && Icon_Element_Icons::is_iconelement_pro() ){
+
+				$tabs['phosphor-duotone'] = array(
+					'name'          => 'phosphor-duotone',
+					'label'         => esc_html__( 'Phosphor-duotone', 'icon-element' ),
+					'labelIcon'     => 'phduo-acorn',
+					'prefix'        => 'phduo-',
+					'displayPrefix' => 'phd',
+					'url'           => ICON_ELEM_PRO_URL . 'assets/phosphor-duotone/phosphor-duotone.css',
+					'fetchJson'     => ICON_ELEM_PRO_URL . 'assets/phosphor-duotone/fonts/phosphor-duotone.json',
+					'ver'           => '3.0.1',
+				);
+
 			}
 
 			///////////

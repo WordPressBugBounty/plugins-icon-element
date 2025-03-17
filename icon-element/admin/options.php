@@ -42,6 +42,15 @@ function icon_element_admin_init() {
 			'preview' => 'https://material.io/resources/icons/?style=baseline'
 		),
 
+		array( 
+			'id'      => 'ie-phosphor-light',
+			'type'    => 'checkbox',
+			'default' => 'yes',
+			'name'    => __( 'Phosphor light (931 icons)', 'icon-element' ),
+			'pro'	  => '',
+			'preview' => 'https://phosphoricons.com/?weight=%22light%22'
+		),
+
 		array(
 			'id'      => 'ie-metrize',
 			'type'    => 'checkbox',
@@ -553,6 +562,15 @@ function icon_element_admin_init() {
 			'name'    => esc_html__( 'Olicons (677 icons)', 'icon-element' ),
 			'pro'	  => 'yes',
 			'preview' => 'http://olicons.yemaosheji.com/index.html#sec-menu'	
+		),
+
+		array(
+			'id'      => 'ie-phosphor-duotone',
+			'type'    => 'checkbox',
+			'default' => 'yes',
+			'name'    => esc_html__( 'Phosphor-duotone (3022 icons)', 'icon-element' ),
+			'pro'	  => 'yes',
+			'preview' => 'https://phosphoricons.com/?weight=%22duotone%22'	
 		),
 
 		array(
