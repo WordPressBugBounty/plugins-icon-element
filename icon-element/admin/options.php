@@ -42,6 +42,15 @@ function icon_element_admin_init() {
 			'preview' => 'https://material.io/resources/icons/?style=baseline'
 		),
 
+		array(
+			'id'      => 'ie-academic',
+			'type'    => 'checkbox',
+			'default' => 'yes',
+			'name'    => __( 'Academic (73 icons)', 'icon-element' ),
+			'pro'	  => '',
+			'preview' => 'https://jpswalsh.github.io/academicons/'
+		),
+
 		array( 
 			'id'      => 'ie-phosphor-light',
 			'type'    => 'checkbox',
@@ -616,6 +625,15 @@ function icon_element_admin_init() {
 			'name'    => esc_html__( 'Orchid (283 icons)', 'icon-element' ),
 			'pro'	  => '',
 			'preview' => 'https://github.com/orchidsoftware/icons'	
+		),
+
+		array(
+			'id'      => 'ie-health',
+			'type'    => 'checkbox', 
+			'default' => '',
+			'name'    => __( 'Health (739 icons)', 'icon-element' ),
+			'pro'	  => 'yes',
+			'preview' => 'https://healthicons.org/'
 		),
 
 		array(

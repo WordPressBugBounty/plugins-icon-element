@@ -388,6 +388,21 @@ if ( ! class_exists( 'Icon_Element_Icons_Integration' ) ) {
 				
 			}
 
+			if ( get_option('icon-elementie-academic') ){
+				
+				$tabs['academic'] = array(
+					'name'          => 'academic',
+					'label'         => esc_html__( 'Academic', 'icon-element' ),
+		            'labelIcon' => 'ai-academia',
+		            'prefix' => 'ai-',
+		            'displayPrefix' => 'uic',
+					'url'           => ICON_ELEM_URL . 'assets/academic/academic.css',
+					'fetchJson'     => ICON_ELEM_URL . 'assets/academic/fonts/academic.json',
+					'ver'           => '3.0.1',
+				);
+				
+			}
+
 			if ( get_option('icon-elementie-orchid') ){ 
 				
 				$tabs['orchid'] = array(
@@ -1093,6 +1108,21 @@ if ( ! class_exists( 'Icon_Element_Icons_Integration' ) ) {
 					'displayPrefix' => 'phd',
 					'url'           => ICON_ELEM_PRO_URL . 'assets/phosphor-duotone/phosphor-duotone.css',
 					'fetchJson'     => ICON_ELEM_PRO_URL . 'assets/phosphor-duotone/fonts/phosphor-duotone.json',
+					'ver'           => '3.0.1',
+				);
+
+			}
+
+			if ( get_option('icon-elementie-health') && Icon_Element_Icons::is_iconelement_pro() ){
+
+				$tabs['health'] = array(
+					'name'          => 'health',
+					'label'         => esc_html__( 'Health', 'icon-element' ),
+					'labelIcon'     => 'xlmed-animal_bat',
+					'prefix'        => 'xlmed-',
+					'displayPrefix' => 'xmd',
+					'url'           => ICON_ELEM_PRO_URL . 'assets/health/health.css',
+					'fetchJson'     => ICON_ELEM_PRO_URL . 'assets/health/fonts/health.json',
 					'ver'           => '3.0.1',
 				);
 
