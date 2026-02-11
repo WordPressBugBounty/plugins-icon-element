@@ -1,8 +1,8 @@
-=== Icon Element - Elementor Page Builder Icon Pack (6718 icons) ===
+=== Icon Element - Icon Pack for Elementor Page Builder (6718 icons) ===
 Tags: icon,elementor,icon-font,iconfont,elementor icon 
 Requires at least: 4.0
 Contributors: Webangon
-Tested up to: 6.6
+Tested up to: 6.8
 Requires PHP: 5.4
 License: GPLv3
 License URI: https://opensource.org/licenses/GPL-3.0
@@ -88,7 +88,7 @@ Enhance your [Elementor](https://wordpress.org/plugins/elementor/) page building
 40. [Clarity](https://clarity.design/documentation/icons/shapes) - 1080 icons
 41. [Phosphor Duotone](https://phosphoricons.com/?weight=%22duotone%22) - 3022 icons
 42. [Health](https://healthicons.org/) - 739 icons
-### Buy Premium Version [Icon Element Pro $19 ](https://webangon.com/icon-element/)
+### Buy Premium Version [Icon Element Pro $19 ](https://webangon.com/store/?storeproduct=59)
 
 
 ### 🔥 WHAT’S NEXT
@@ -97,9 +97,9 @@ If you like Icon Element, then consider checking out our other WordPress Plugins
 
 🔔 **[The Pack Addon](https://wordpress.org/plugins/the-pack-addon/)** – Best elementor addon including 110 widgets, 314 setions and cloud templates
 
-🔔 **[Xl Tab](https://wordpress.org/plugins/xl-tab/)** – Best elementor tab & accordion plugin
+🔔 **[Xl Tab](https://wordpress.org/plugins/xl-tab/)** – Best tab & accordion plugin for elementor
 
-🔔 **[News Element](https://wordpress.org/plugins/news-element/)** – Best elementor news blog magazine addon
+🔔 **[News Element](https://wordpress.org/plugins/news-element/)** – Best news blog magazine addon for elementor
 
 == Installation ==
 
